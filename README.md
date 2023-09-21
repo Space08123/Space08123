@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Space08123
+- 👀 I’m interested in Game development/modding
+- 🌱 I’m currently learning GDscript
